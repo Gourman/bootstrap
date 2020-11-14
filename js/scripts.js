@@ -1,0 +1,1 @@
+const gastos = document.querySelector('#titulo')
